@@ -70,3 +70,12 @@ there are two types of cameras
 - Point of View (POV) -> refers to the secific position and angle which the camera looks at the seen it's like where the eyes of camera located and what direction they are facing 
 - Near & Far Clipping Planes -> cameras viewing range
 - camera controls -> orbit controls , TrackballControls , Fly Controls , pointerLockControls , FirstPersonControls
+
+- > React Three Fiber
+- In Three JS we have to write the code step by step we have full control but it also increase the risk of code falling
+- Instead of writing imperative code (Step by step) you write declerative code this means you have to describe what you want to your scen looks like and React Three Fiber handles the details of making it happen 
+
+- > React three drei -> which is collection of Useful helpers, Components, Abstraction built in top of React Three Fiber it provide ready made tools like cameras , controls , environment etc. which can significantly speed up your development by handling comman tasks and simplyfying complex setup
+
+- > Terminal command
+-  npm i three @react-three/fiber @react-three/drei
